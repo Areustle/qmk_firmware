@@ -1,4 +1,6 @@
 .history/
+.clangd/
+compile_commands.json
 .dep
 *.o
 *.bin
